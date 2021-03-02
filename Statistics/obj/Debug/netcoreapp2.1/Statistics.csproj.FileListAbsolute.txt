@@ -1,0 +1,22 @@
+C:\Users\John Heiden\source\repos\Statistics\bin\Debug\netcoreapp2.1\Statistics.deps.json
+C:\Users\John Heiden\source\repos\Statistics\bin\Debug\netcoreapp2.1\Statistics.runtimeconfig.json
+C:\Users\John Heiden\source\repos\Statistics\bin\Debug\netcoreapp2.1\Statistics.runtimeconfig.dev.json
+C:\Users\John Heiden\source\repos\Statistics\bin\Debug\netcoreapp2.1\Statistics.dll
+C:\Users\John Heiden\source\repos\Statistics\bin\Debug\netcoreapp2.1\Statistics.pdb
+C:\Users\John Heiden\source\repos\Statistics\obj\Debug\netcoreapp2.1\Statistics.csprojAssemblyReference.cache
+C:\Users\John Heiden\source\repos\Statistics\obj\Debug\netcoreapp2.1\Statistics.csproj.CoreCompileInputs.cache
+C:\Users\John Heiden\source\repos\Statistics\obj\Debug\netcoreapp2.1\Statistics.AssemblyInfoInputs.cache
+C:\Users\John Heiden\source\repos\Statistics\obj\Debug\netcoreapp2.1\Statistics.AssemblyInfo.cs
+C:\Users\John Heiden\source\repos\Statistics\obj\Debug\netcoreapp2.1\Statistics.dll
+C:\Users\John Heiden\source\repos\Statistics\obj\Debug\netcoreapp2.1\Statistics.pdb
+C:\Users\John Heiden\source\repos\Statistics Calculator\Statistics\bin\Debug\netcoreapp2.1\Statistics.deps.json
+C:\Users\John Heiden\source\repos\Statistics Calculator\Statistics\bin\Debug\netcoreapp2.1\Statistics.runtimeconfig.json
+C:\Users\John Heiden\source\repos\Statistics Calculator\Statistics\bin\Debug\netcoreapp2.1\Statistics.runtimeconfig.dev.json
+C:\Users\John Heiden\source\repos\Statistics Calculator\Statistics\bin\Debug\netcoreapp2.1\Statistics.dll
+C:\Users\John Heiden\source\repos\Statistics Calculator\Statistics\bin\Debug\netcoreapp2.1\Statistics.pdb
+C:\Users\John Heiden\source\repos\Statistics Calculator\Statistics\obj\Debug\netcoreapp2.1\Statistics.csprojAssemblyReference.cache
+C:\Users\John Heiden\source\repos\Statistics Calculator\Statistics\obj\Debug\netcoreapp2.1\Statistics.csproj.CoreCompileInputs.cache
+C:\Users\John Heiden\source\repos\Statistics Calculator\Statistics\obj\Debug\netcoreapp2.1\Statistics.AssemblyInfoInputs.cache
+C:\Users\John Heiden\source\repos\Statistics Calculator\Statistics\obj\Debug\netcoreapp2.1\Statistics.AssemblyInfo.cs
+C:\Users\John Heiden\source\repos\Statistics Calculator\Statistics\obj\Debug\netcoreapp2.1\Statistics.dll
+C:\Users\John Heiden\source\repos\Statistics Calculator\Statistics\obj\Debug\netcoreapp2.1\Statistics.pdb
